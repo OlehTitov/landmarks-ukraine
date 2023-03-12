@@ -1,0 +1,15 @@
+@Tutorials(name: "Основи SwiftUI") {
+    @Intro(title: "Мальовнича Україна") {
+        Вивчай SwiftUI українською мовою. Почни створювати демо програму про дивовижні місця України 
+        
+        @Image(source: Kateryna.jpg, alt: "Taras Shevchenko painting Kateryna")
+    }
+    
+    @Chapter(name: "Створення та композиція View") {
+        Цей інтерактивний посібник покаже покрокову інструкцію як створити програму для перегляду та додавання дивовижних місць нашої країни
+        
+        @Image(source: Landscape.jpg, alt: "Український пейзаж")
+        
+        @TutorialReference(tutorial: "doc:Creating-and-Combining-Views")
+    }
+}

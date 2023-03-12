@@ -1,0 +1,29 @@
+@Tutorial(time: 20) {
+    @Intro(title: "Створення та поєднання View") {
+        Навчись використовувати бла бла бла
+        
+        @Image(source: Image1.jpg, alt: "вотевер")
+    }
+    
+    @Section(title: "Створи новий проект і поглянь скільки тут різних кнопочок") {
+        @ContentAndMedia {
+            Створи новий проект SwiftUI. Обміркуй, чи воно тобі потрібно?
+            
+            @Image(source: Image2.jpg, alt: "апіпіапіап")
+        }
+        
+        @Steps {
+            @Step {
+                Відкрий xCode та тицькай на Create new project
+                
+                @Image(source: Step1_image.png, alt: "пвапвро")
+            }
+            
+            @Step {
+                У вікні вибору шаблону обери iOS, а потім App. Тепер можна сміливо натиснути кнопку Next
+                
+                @Image(source: Step2_image.png, alt: "пвапвро")
+            }
+        }
+    }
+}
