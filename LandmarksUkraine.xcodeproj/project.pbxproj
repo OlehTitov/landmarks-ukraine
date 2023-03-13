@@ -286,7 +286,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LandmarksUkraine/Preview Content\"";
 				DEVELOPMENT_TEAM = 7UQ7Z257NM;
-				DOCC_HOSTING_BASE_PATH = LandmarksUkraine;
+				DOCC_HOSTING_BASE_PATH = "landmarks-ukraine";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LandmarksUkraine/Info.plist;
@@ -317,7 +317,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LandmarksUkraine/Preview Content\"";
 				DEVELOPMENT_TEAM = 7UQ7Z257NM;
-				DOCC_HOSTING_BASE_PATH = LandmarksUkraine;
+				DOCC_HOSTING_BASE_PATH = "landmarks-ukraine";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LandmarksUkraine/Info.plist;

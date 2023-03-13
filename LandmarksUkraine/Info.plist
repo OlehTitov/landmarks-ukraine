@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>MacPawFixelDisplay/MacPawFixelDisplay-Regular.ttf</string>
+		<string>MacPawFixelText/MacPawFixelText-Regular.ttf</string>
+		<string>MacPawFixelDisplay/MacPawFixelDisplay-Bold.ttf</string>
+		<string>MacPawFixelText/MacPawFixelText-Bold.ttf</string>
+		<string>MacPawFixelText/MacPawFixelText-SemiBold.ttf</string>
+		<string>MacPawFixelText/MacPawFixelText-Medium.ttf</string>
+		<string>MacPawFixelDisplay/MacPawFixelDisplay-Black.ttf</string>
+		<string>MacPawFixelText/MacPawFixelText-Light.ttf</string>
+		<string>MacPawFixelText/MacPawFixelText-Thin.ttf</string>
+		<string>MacPawFixel-VF.ttf</string>
+	</array>
+</dict>
+</plist>
